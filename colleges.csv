@@ -1,0 +1,298 @@
+college_id,college_name,state,city,exam_accepted,closing_rank,annual_fees_inr
+1,IIT Bombay,Maharashtra,Mumbai,JEE MAIN,1500,180000
+2,IIT Delhi,Delhi,Delhi,JEE MAIN,800,175000
+3,IIT Madras,Tamil Nadu,Chennai,JEE MAIN,1100,172000
+4,IIT Kharagpur,West Bengal,Kharagpur,JEE MAIN,2000,168000
+5,IIT Kanpur,Uttar Pradesh,Kanpur,JEE MAIN,1800,170000
+6,IIT Roorkee,Uttarakhand,Roorkee,JEE MAIN,2500,165000
+7,IIT Hyderabad,Telangana,Hyderabad,JEE MAIN,3200,162000
+8,IIT Guwahati,Assam,Guwahati,JEE MAIN,3800,160000
+9,IIT Bhubaneswar,Odisha,Bhubaneswar,JEE MAIN,7000,158000
+10,IIT Gandhinagar,Gujarat,Gandhinagar,JEE MAIN,6500,156000
+11,IIT Jodhpur,Rajasthan,Jodhpur,JEE MAIN,8000,155000
+12,IIT Patna,Bihar,Patna,JEE MAIN,8500,153000
+13,IIT Indore,Madhya Pradesh,Indore,JEE MAIN,7500,157000
+14,IIT Mandi,Himachal Pradesh,Mandi,JEE MAIN,9500,150000
+15,IIT Ropar,Punjab,Ropar,JEE MAIN,9000,151000
+16,IIT Tirupati,Andhra Pradesh,Tirupati,JEE MAIN,11000,148000
+17,IIT Palakkad,Kerala,Palakkad,JEE MAIN,12000,147000
+18,IIT Jammu,Jammu and Kashmir,Jammu,JEE MAIN,13000,145000
+19,IIT Dharwad,Karnataka,Dharwad,JEE MAIN,13500,144000
+20,IIT Bhilai,Chhattisgarh,Bhilai,JEE MAIN,14000,143000
+21,IIT Varanasi (BHU),Uttar Pradesh,Varanasi,JEE MAIN,4500,163000
+22,IIT (ISM) Dhanbad,Jharkhand,Dhanbad,JEE MAIN,6000,155000
+23,IIT Nagpur (VNIT),Maharashtra,Nagpur,JEE MAIN,10000,133000
+24,NIT Trichy,Tamil Nadu,Tiruchirappalli,JEE MAIN,4500,145000
+25,NIT Warangal,Telangana,Warangal,JEE MAIN,5000,142000
+26,NIT Karnataka,Karnataka,Surathkal,JEE MAIN,5500,145000
+27,NIT Calicut,Kerala,Calicut,JEE MAIN,6000,140000
+28,NIT Rourkela,Odisha,Rourkela,JEE MAIN,6500,138000
+29,NIT Allahabad,Uttar Pradesh,Prayagraj,JEE MAIN,7000,135000
+30,NIT Durgapur,West Bengal,Durgapur,JEE MAIN,9000,130000
+31,NIT Silchar,Assam,Silchar,JEE MAIN,16000,125000
+32,NIT Jamshedpur,Jharkhand,Jamshedpur,JEE MAIN,14000,128000
+33,NIT Kurukshetra,Haryana,Kurukshetra,JEE MAIN,11000,132000
+34,NIT Nagpur (VNIT),Maharashtra,Nagpur,JEE MAIN,10000,133000
+35,NIT Bhopal (MANIT),Madhya Pradesh,Bhopal,JEE MAIN,12000,130000
+36,NIT Jalandhar,Punjab,Jalandhar,JEE MAIN,13000,129000
+37,NIT Raipur,Chhattisgarh,Raipur,JEE MAIN,17000,122000
+38,NIT Goa,Goa,Goa,JEE MAIN,15000,126000
+39,NIT Srinagar,Jammu and Kashmir,Srinagar,JEE MAIN,22000,115000
+40,NIT Hamirpur,Himachal Pradesh,Hamirpur,JEE MAIN,18000,120000
+41,NIT Manipur,Manipur,Imphal,JEE MAIN,30000,108000
+42,NIT Sikkim,Sikkim,Gangtok,JEE MAIN,32000,105000
+43,NIT Meghalaya,Meghalaya,Shillong,JEE MAIN,33000,104000
+44,NIT Mizoram,Mizoram,Aizawl,JEE MAIN,35000,102000
+45,NIT Agartala,Tripura,Agartala,JEE MAIN,28000,110000
+46,NIT Arunachal Pradesh,Arunachal Pradesh,Itanagar,JEE MAIN,36000,100000
+47,NIT Delhi,Delhi,Delhi,JEE MAIN,8000,140000
+48,NIT Puducherry,Puducherry,Puducherry,JEE MAIN,24000,112000
+49,NIT Andhra Pradesh,Andhra Pradesh,Tadepalligudem,JEE MAIN,26000,111000
+50,NIT Uttarakhand,Uttarakhand,Srinagar Garhwal,JEE MAIN,27000,110000
+51,IIIT Hyderabad,Telangana,Hyderabad,JEE MAIN,2800,285000
+52,IIIT Bangalore,Karnataka,Bangalore,JEE MAIN,3500,290000
+53,IIIT Delhi,Delhi,Delhi,JEE MAIN,2200,295000
+54,IIIT Allahabad,Uttar Pradesh,Prayagraj,JEE MAIN,4200,175000
+55,IIIT Gwalior,Madhya Pradesh,Gwalior,JEE MAIN,5000,170000
+56,IIIT Jabalpur,Madhya Pradesh,Jabalpur,JEE MAIN,6800,165000
+57,IIIT Vadodara,Gujarat,Vadodara,JEE MAIN,7200,168000
+58,IIIT Lucknow,Uttar Pradesh,Lucknow,JEE MAIN,6000,172000
+59,IIIT Kancheepuram,Tamil Nadu,Kancheepuram,JEE MAIN,9000,160000
+60,IIIT Pune,Maharashtra,Pune,JEE MAIN,8000,175000
+61,IIIT Kalyani,West Bengal,Kalyani,JEE MAIN,10000,158000
+62,IIIT Una,Himachal Pradesh,Una,JEE MAIN,11000,155000
+63,IIIT Sri City,Andhra Pradesh,Chittoor,JEE MAIN,9500,162000
+64,IIIT Nagpur,Maharashtra,Nagpur,JEE MAIN,8500,170000
+65,IIIT Naya Raipur,Chhattisgarh,Raipur,JEE MAIN,12000,150000
+66,BITS Pilani,Rajasthan,Pilani,JEE MAIN,3000,490000
+67,BITS Hyderabad,Telangana,Hyderabad,JEE MAIN,3800,488000
+68,BITS Goa,Goa,Goa,JEE MAIN,4000,487000
+69,DTU Delhi,Delhi,Delhi,JEE MAIN,6000,175000
+70,NSUT Delhi,Delhi,Delhi,JEE MAIN,8500,170000
+71,IGDTUW Delhi,Delhi,Delhi,JEE MAIN,11000,165000
+72,GGSIPU Delhi,Delhi,Delhi,JEE MAIN,20000,120000
+73,COEP Pune,Maharashtra,Pune,JEE MAIN,8000,95000
+74,VJTI Mumbai,Maharashtra,Mumbai,JEE MAIN,12000,110000
+75,ICT Mumbai,Maharashtra,Mumbai,JEE MAIN,9000,120000
+76,Govt Engineering College Pune,Maharashtra,Pune,JEE MAIN,14000,85000
+77,Walchand College of Engineering,Maharashtra,Sangli,JEE MAIN,18000,80000
+78,PICT Pune,Maharashtra,Pune,JEE MAIN,11000,100000
+79,K.J. Somaiya College,Maharashtra,Mumbai,JEE MAIN,17000,290000
+80,Fr. Conceicao Rodrigues College,Maharashtra,Mumbai,JEE MAIN,21000,180000
+81,MIT-WPU Pune,Maharashtra,Pune,JEE MAIN,28000,370000
+82,Symbiosis Institute of Technology,Maharashtra,Pune,JEE MAIN,35000,420000
+83,College of Engineering Nashik,Maharashtra,Nashik,JEE MAIN,22000,78000
+84,SGSITS Indore,Madhya Pradesh,Indore,JEE MAIN,19000,88000
+85,YCCE Nagpur,Maharashtra,Nagpur,JEE MAIN,26000,95000
+86,KIT Kolhapur,Maharashtra,Kolhapur,JEE MAIN,24000,82000
+87,RCOEM Nagpur,Maharashtra,Nagpur,JEE MAIN,23000,90000
+88,Sinhgad Technical Education,Maharashtra,Pune,JEE MAIN,30000,180000
+89,MIT College of Engineering,Maharashtra,Pune,JEE MAIN,27000,320000
+90,VIT Pune,Maharashtra,Pune,JEE MAIN,32000,250000
+91,Bharati Vidyapeeth COE Pune,Maharashtra,Pune,JEE MAIN,34000,160000
+92,RV College of Engineering,Karnataka,Bangalore,JEE MAIN,15000,420000
+93,PES University,Karnataka,Bangalore,JEE MAIN,20000,480000
+94,BMS College of Engineering,Karnataka,Bangalore,JEE MAIN,18000,350000
+95,Ramaiah Institute of Technology,Karnataka,Bangalore,JEE MAIN,22000,375000
+96,JSS Science and Technology,Karnataka,Mysore,JEE MAIN,28000,310000
+97,MIT Manipal,Karnataka,Manipal,JEE MAIN,30000,495000
+98,PESIT South Campus,Karnataka,Bangalore,JEE MAIN,26000,400000
+99,VIT Vellore,Tamil Nadu,Vellore,JEE MAIN,18000,450000
+100,SRM Institute of Science,Tamil Nadu,Chennai,JEE MAIN,40000,420000
+101,Amrita Vishwa Vidyapeetham,Tamil Nadu,Coimbatore,JEE MAIN,35000,380000
+102,PSG College of Technology,Tamil Nadu,Coimbatore,JEE MAIN,12000,95000
+103,CEG Anna University,Tamil Nadu,Chennai,JEE MAIN,9500,85000
+104,SSN College of Engineering,Tamil Nadu,Chennai,JEE MAIN,14000,180000
+105,SASTRA University,Tamil Nadu,Thanjavur,JEE MAIN,22000,195000
+106,Karunya University,Tamil Nadu,Coimbatore,JEE MAIN,29000,220000
+107,Vel Tech University,Tamil Nadu,Chennai,JEE MAIN,45000,280000
+108,Saveetha Engineering College,Tamil Nadu,Chennai,JEE MAIN,50000,220000
+109,Hindustan Institute,Tamil Nadu,Chennai,JEE MAIN,48000,260000
+110,Rajalakshmi Engineering College,Tamil Nadu,Chennai,JEE MAIN,38000,195000
+111,SRM Kattankulathur,Tamil Nadu,Kattankulathur,JEE MAIN,42000,410000
+112,Jadavpur University,West Bengal,Kolkata,JEE MAIN,7500,50000
+113,Heritage Institute of Technology,West Bengal,Kolkata,JEE MAIN,32000,185000
+114,Techno India University,West Bengal,Kolkata,JEE MAIN,45000,180000
+115,HBTU Kanpur,Uttar Pradesh,Kanpur,JEE MAIN,15000,85000
+116,GLA University,Uttar Pradesh,Mathura,JEE MAIN,36000,210000
+117,RGIPT,Uttar Pradesh,Raebareli,JEE MAIN,20000,190000
+118,Amity University Noida,Uttar Pradesh,Noida,JEE MAIN,50000,490000
+119,Bennett University,Uttar Pradesh,Greater Noida,JEE MAIN,48000,460000
+120,Shiv Nadar University,Uttar Pradesh,Greater Noida,JEE MAIN,15000,450000
+121,MITS Gwalior,Madhya Pradesh,Gwalior,JEE MAIN,16000,130000
+122,LNCT Bhopal,Madhya Pradesh,Bhopal,JEE MAIN,28000,105000
+123,Thapar University,Punjab,Patiala,JEE MAIN,20000,395000
+124,LPU,Punjab,Jalandhar,JEE MAIN,45000,380000
+125,Chandigarh University,Punjab,Chandigarh,JEE MAIN,42000,350000
+126,Chitkara University,Punjab,Rajpura,JEE MAIN,38000,360000
+127,BIT Mesra,Jharkhand,Ranchi,JEE MAIN,25000,310000
+128,DAIICT,Gujarat,Gandhinagar,JEE MAIN,10000,220000
+129,Nirma University,Gujarat,Ahmedabad,JEE MAIN,25000,280000
+130,BVM Engineering College,Gujarat,Anand,JEE MAIN,30000,90000
+131,Dhirubhai Ambani Institute,Gujarat,Gandhinagar,JEE MAIN,5000,350000
+132,Pandit Deendayal University,Gujarat,Gandhinagar,JEE MAIN,12000,120000
+133,MNIT Jaipur,Rajasthan,Jaipur,JEE MAIN,8500,135000
+134,Manipal University Jaipur,Rajasthan,Jaipur,JEE MAIN,35000,470000
+135,GITAM University,Andhra Pradesh,Visakhapatnam,JEE MAIN,33000,255000
+136,KL University,Andhra Pradesh,Guntur,JEE MAIN,37000,280000
+137,Vignan University,Andhra Pradesh,Guntur,JEE MAIN,41000,240000
+138,VIT-AP,Andhra Pradesh,Amaravati,JEE MAIN,30000,460000
+139,MVGR College of Engineering,Andhra Pradesh,Vizianagaram,JEE MAIN,19000,115000
+140,GVP College Vizag,Andhra Pradesh,Visakhapatnam,JEE MAIN,23000,120000
+141,Andhra University COE,Andhra Pradesh,Visakhapatnam,JEE MAIN,11000,60000
+142,Ashoka University,Haryana,Sonepat,JEE MAIN,5000,490000
+143,NIT Kurukshetra (repeat row for branch),Haryana,Kurukshetra,JEE MAIN,13000,130000
+144,Thapar Institute (Derabassi),Punjab,Derabassi,JEE MAIN,22000,390000
+145,NFSU Gandhinagar,Gujarat,Gandhinagar,JEE MAIN,18000,130000
+146,PDPU Gandhinagar,Gujarat,Gandhinagar,JEE MAIN,14000,210000
+147,COE Pune (Govt),Maharashtra,Pune,JEE MAIN,17500,82000
+148,GCEK Bhavnagar,Gujarat,Bhavnagar,JEE MAIN,28000,75000
+149,Osmania University CEP,Telangana,Hyderabad,TS EAMCET,3000,45000
+150,University College of Engineering Hyderabad,Telangana,Hyderabad,TS EAMCET,2500,42000
+151,JNTUH College of Engineering,Telangana,Hyderabad,TS EAMCET,5000,48000
+152,CBIT Hyderabad,Telangana,Hyderabad,TS EAMCET,8000,90000
+153,MGIT Hyderabad,Telangana,Hyderabad,TS EAMCET,12000,85000
+154,MVSR Engineering College,Telangana,Hyderabad,TS EAMCET,18000,80000
+155,Chaitanya Bharathi Institute,Telangana,Hyderabad,TS EAMCET,10000,88000
+156,VNR VJIET Hyderabad,Telangana,Hyderabad,TS EAMCET,7000,95000
+157,Vasavi College of Engineering,Telangana,Hyderabad,TS EAMCET,6000,92000
+158,BVRIT Narsapur,Telangana,Narsapur,TS EAMCET,15000,78000
+159,SR Engineering College,Telangana,Warangal,TS EAMCET,22000,70000
+160,Kakatiya Institute of Technology,Telangana,Warangal,TS EAMCET,25000,65000
+161,CVR College of Engineering,Telangana,Hyderabad,TS EAMCET,14000,82000
+162,Malla Reddy Engineering College,Telangana,Hyderabad,TS EAMCET,30000,72000
+163,Vardhaman College of Engineering,Telangana,Hyderabad,TS EAMCET,20000,75000
+164,SNIST Hyderabad,Telangana,Hyderabad,TS EAMCET,16000,80000
+165,Gokaraju Rangaraju Institute,Telangana,Hyderabad,TS EAMCET,11000,87000
+166,CMR College of Engineering,Telangana,Hyderabad,TS EAMCET,19000,76000
+167,Sreenidhi Institute of Science,Telangana,Hyderabad,TS EAMCET,13000,85000
+168,MLR Institute of Technology,Telangana,Hyderabad,TS EAMCET,24000,71000
+169,Aurora Engineering College,Telangana,Hyderabad,TS EAMCET,35000,60000
+170,Anurag University,Telangana,Hyderabad,TS EAMCET,28000,68000
+171,Mahindra University,Telangana,Hyderabad,TS EAMCET,9000,450000
+172,Woxsen University,Telangana,Hyderabad,TS EAMCET,5000,480000
+173,ICFAI Tech School,Telangana,Hyderabad,TS EAMCET,8000,350000
+174,Vignan Bharathi Institute,Telangana,Hyderabad,TS EAMCET,40000,58000
+175,Muffakham Jah College,Telangana,Hyderabad,TS EAMCET,17000,78000
+176,Lords Institute of Engineering,Telangana,Hyderabad,TS EAMCET,45000,55000
+177,St. Martin Engineering College,Telangana,Secunderabad,TS EAMCET,38000,60000
+178,Nizam Institute of Engineering,Telangana,Hyderabad,TS EAMCET,32000,63000
+179,GITAM Hyderabad,Telangana,Hyderabad,TS EAMCET,6000,260000
+180,Koneru Lakshmaiah Hyderabad,Telangana,Hyderabad,TS EAMCET,10000,275000
+181,Kakatiya University College,Telangana,Warangal,TS EAMCET,6500,44000
+182,JNTUH Engineering Sultanpur,Telangana,Sultanpur,TS EAMCET,12000,47000
+183,Mahatma Gandhi Institute,Telangana,Nalgonda,TS EAMCET,42000,52000
+184,Bharat Institute of Engineering,Telangana,Hyderabad,TS EAMCET,34000,63000
+185,Srinivasa Institute of Engineering,Telangana,Hyderabad,TS EAMCET,36000,61000
+186,Balaji Institute of Technology,Telangana,Narsampet,TS EAMCET,42000,54000
+187,TKR College of Engineering,Telangana,Hyderabad,TS EAMCET,26000,68000
+188,Matrusri Engineering College,Telangana,Hyderabad,TS EAMCET,29000,65000
+189,DRKIST Hyderabad,Telangana,Hyderabad,TS EAMCET,31000,64000
+190,Pallavi Engineering College,Telangana,Hyderabad,TS EAMCET,44000,53000
+191,Hyderabad Institute of Technology,Telangana,Hyderabad,TS EAMCET,23000,72000
+192,ACE Engineering College,Telangana,Hyderabad,TS EAMCET,21000,74000
+193,G Narayanamma Institute,Telangana,Hyderabad,TS EAMCET,27000,67000
+194,CMR Engineering College,Telangana,Hyderabad,TS EAMCET,37000,60000
+195,Malla Reddy College IT,Telangana,Secunderabad,TS EAMCET,33000,63000
+196,Geethanjali College of Engineering,Telangana,Hyderabad,TS EAMCET,39000,58000
+197,Guru Nanak Institute,Telangana,Hyderabad,TS EAMCET,43000,55000
+198,IARE Hyderabad,Telangana,Hyderabad,TS EAMCET,20000,76000
+199,Avanthi Institute,Telangana,Hyderabad,TS EAMCET,47000,50000
+200,Vidya Jyothi Institute,Telangana,Hyderabad,TS EAMCET,48000,49000
+201,Indur Institute of Engineering,Telangana,Nizamabad,TS EAMCET,50000,47000
+202,KITS Warangal,Telangana,Warangal,TS EAMCET,9500,82000
+203,MJCET Hyderabad,Telangana,Hyderabad,TS EAMCET,15500,79000
+204,Newton College of Engineering,Telangana,Hyderabad,TS EAMCET,46000,51000
+205,Padmasri Dr BV Raju Engineering,Telangana,Bhimavaram,TS EAMCET,13500,83000
+206,Siddharth Institute Engineering,Telangana,Puttur,TS EAMCET,16500,77000
+207,Swarna Bharati Institute,Telangana,Khammam,TS EAMCET,41000,56000
+208,Teegala Krishna Reddy Engineering,Telangana,Hyderabad,TS EAMCET,35500,61000
+209,SR University,Telangana,Warangal,TS EAMCET,7500,280000
+210,Kommuri Pratap Reddy Institute,Telangana,Hyderabad,TS EAMCET,18500,77000
+211,Rajiv Gandhi University of Knowledge,Telangana,Hyderabad,TS EAMCET,4500,62000
+212,OUCET Affiliated - Nizam College,Telangana,Hyderabad,TS EAMCET,11500,48000
+213,NITK Surathkal KCET,Karnataka,Surathkal,KCET,1500,145000
+214,RV College of Engineering KCET,Karnataka,Bangalore,KCET,5000,420000
+215,PES University KCET,Karnataka,Bangalore,KCET,8000,480000
+216,BMS College of Engineering KCET,Karnataka,Bangalore,KCET,6000,350000
+217,MSRIT Bangalore,Karnataka,Bangalore,KCET,4000,380000
+218,BMSCE Bangalore,Karnataka,Bangalore,KCET,5500,340000
+219,Dayananda Sagar University,Karnataka,Bangalore,KCET,12000,160000
+220,Ramaiah Institute of Technology KCET,Karnataka,Bangalore,KCET,7000,375000
+221,JSS Mysore KCET,Karnataka,Mysore,KCET,10000,310000
+222,Manipal BIT,Karnataka,Manipal,KCET,9000,490000
+223,PESIT South Campus KCET,Karnataka,Bangalore,KCET,11000,400000
+224,Nitte Meenakshi Institute,Karnataka,Bangalore,KCET,14000,310000
+225,East West Institute of Technology,Karnataka,Bangalore,KCET,20000,195000
+226,BNM Institute of Technology,Karnataka,Bangalore,KCET,18000,215000
+227,Dr. Ambedkar Institute,Karnataka,Bangalore,KCET,15000,180000
+228,Presidency University KCET,Karnataka,Bangalore,KCET,22000,320000
+229,Alliance University,Karnataka,Bangalore,KCET,19000,340000
+230,MVJ College of Engineering,Karnataka,Bangalore,KCET,23000,230000
+231,RNS Institute of Technology,Karnataka,Bangalore,KCET,16000,210000
+232,SJB Institute of Technology,Karnataka,Bangalore,KCET,17000,205000
+233,Global Academy of Technology,Karnataka,Bangalore,KCET,25000,190000
+234,HKBK College of Engineering,Karnataka,Bangalore,KCET,28000,180000
+235,Atria Institute of Technology,Karnataka,Bangalore,KCET,24000,220000
+236,Siddaganga Institute,Karnataka,Tumkur,KCET,8500,265000
+237,Malnad College of Engineering,Karnataka,Hassan,KCET,7000,120000
+238,BIT Sathyamangala,Karnataka,Sathyamangala,KCET,9500,130000
+239,NIE Mysore,Karnataka,Mysore,KCET,6500,135000
+240,VVCE Mysore,Karnataka,Mysore,KCET,11500,125000
+241,Vidyavardhaka College,Karnataka,Mysore,KCET,13000,115000
+242,Bapuji Institute of Engineering,Karnataka,Davangere,KCET,12000,118000
+243,SDMCET Dharwad,Karnataka,Dharwad,KCET,10000,110000
+244,KLE Technological University,Karnataka,Hubli,KCET,9000,140000
+245,BLDEA CET Bijapur,Karnataka,Bijapur,KCET,14000,105000
+246,GM Institute of Technology,Karnataka,Davangere,KCET,16000,100000
+247,PDA College of Engineering,Karnataka,Kalaburagi,KCET,18000,98000
+248,Basaveshwar Engineering College,Karnataka,Bagalkot,KCET,17000,95000
+249,KLE College of Engineering,Karnataka,Belgaum,KCET,13000,108000
+250,Gogte Institute of Technology,Karnataka,Belgaum,KCET,11000,112000
+251,Angadi Institute of Technology,Karnataka,Belgaum,KCET,20000,92000
+252,BIET Davanagere,Karnataka,Davangere,KCET,22000,96000
+253,REVA University,Karnataka,Bangalore,KCET,26000,295000
+254,Jain University KCET,Karnataka,Bangalore,KCET,21000,350000
+255,CMR Institute of Technology,Karnataka,Bangalore,KCET,19000,250000
+256,Acharya Institute of Technology,Karnataka,Bangalore,KCET,27000,260000
+257,New Horizon College,Karnataka,Bangalore,KCET,29000,240000
+258,SSIT Tumkur,Karnataka,Tumkur,KCET,24000,115000
+259,Sri Venkateshwara College,Karnataka,Bangalore,KCET,32000,235000
+260,Cambridge Institute of Technology,Karnataka,Bangalore,KCET,31000,245000
+261,BMSIT Yelahanka,Karnataka,Bangalore,KCET,15000,320000
+262,Sir M Visvesvaraya Institute,Karnataka,Bangalore,KCET,13500,295000
+263,NHCE Bangalore,Karnataka,Bangalore,KCET,14500,295000
+264,Sambhram Institute of Technology,Karnataka,Bangalore,KCET,38000,195000
+265,Impact College of Engineering,Karnataka,Bangalore,KCET,40000,200000
+266,TOCE Bangalore,Karnataka,Bangalore,KCET,35000,220000
+267,Vidya Vikas Institute,Karnataka,Mysore,KCET,30000,130000
+268,SEA College of Engineering,Karnataka,Bangalore,KCET,33000,225000
+269,ACS College of Engineering,Karnataka,Bangalore,KCET,34000,215000
+270,Proudhadevaraya Institute,Karnataka,Hospet,KCET,26000,100000
+271,Sri Krishna Institute,Karnataka,Bangalore,KCET,28500,190000
+272,Vemana Institute of Technology,Karnataka,Bangalore,KCET,36000,200000
+273,Yellamma Dasappa Institute,Karnataka,Bangalore,KCET,37000,195000
+274,Don Bosco Institute,Karnataka,Bangalore,KCET,39000,185000
+275,Oxford College of Engineering,Karnataka,Bangalore,KCET,41000,180000
+276,Dayananda Sagar Academy,Karnataka,Bangalore,KCET,23500,240000
+277,Garden City University,Karnataka,Bangalore,KCET,29500,270000
+278,Bangalore Institute of Technology,Karnataka,Bangalore,KCET,10500,210000
+279,Kammavari Sangha Institute,Karnataka,Bangalore,KCET,31500,195000
+280,GEC Hassan,Karnataka,Hassan,KCET,8000,88000
+281,GEC Kushalnagar,Karnataka,Kushalnagar,KCET,21000,85000
+282,GEC Ramanagara,Karnataka,Ramanagara,KCET,19500,87000
+283,Adichunchanagiri Institute,Karnataka,Mandya,KCET,16500,140000
+284,Dr. T. Thimmaiah Institute,Karnataka,Kolar,KCET,25500,120000
+285,Sri Siddhartha Institute,Karnataka,Tumkur,KCET,20500,145000
+286,JSS Academy of Technical Education,Karnataka,Bangalore,KCET,18500,220000
+287,National Institute of Engineering,Karnataka,Mysore,KCET,7500,138000
+288,Justice K.S. Hegde Institute,Karnataka,Mangalore,KCET,11500,190000
+289,Mangalore Institute of Technology,Karnataka,Mangalore,KCET,13500,180000
+290,Canara Engineering College,Karnataka,Mangalore,KCET,17500,155000
+291,Shri Madhwa Vadiraja Institute,Karnataka,Bantwal,KCET,22500,135000
+292,NMAM Institute of Technology,Karnataka,Nitte,KCET,12500,175000
+293,St. Joseph Engineering College,Karnataka,Mangalore,KCET,15500,185000
+294,Sahyadri College of Engineering,Karnataka,Mangalore,KCET,18000,165000
+295,Alva Institute of Engineering,Karnataka,Mangalore,KCET,23000,145000
+296,Invalid College No Fees,Karnataka,Bangalore,KCET,,
+297,Dummy MHT-CET College,Maharashtra,Pune,MHT-CET,,
